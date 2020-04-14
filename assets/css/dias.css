@@ -1,0 +1,24 @@
+#caixa-imagem {
+    text-align: center;
+    margin: 4px;
+}
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 6px;
+}
+h2{
+    text-align: left;
+    font-family: Arial;
+    margin: 20px;
+}
+h3{
+    text-align: left;
+    font-family: Arial;
+    margin: 20px;
+}
+body{
+    margin: 0;
+    background-color: rgb(243, 243, 243);
+    
+}
